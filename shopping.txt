@@ -17,5 +17,9 @@ soup
 ice cream
 sugar
 flour
+football boots
+jersey
+football socks
+
 
 
