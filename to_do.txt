@@ -9,3 +9,7 @@ mow lawn
 weed garden
 take out trash
 practice piano
+pack car
+pitch tent
+go for a hike
+light fire
